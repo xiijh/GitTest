@@ -8,22 +8,7 @@ public class TEST {
 
     public static final String DEFAULT_PATTERN = "yyyy-MM-dd HH:mm:ss";
     public static void main(String[] args) {
-//        long a = System.currentTimeMillis();
-//
-//        long t = a + 1 * 30 * 1000L;
-//
-//        long t2 = t + 2 * 30 * 1000L;
-//
-//        System.out.println(t);
-        //System.out.println(t2);
-
-        String a = null;
-
-        if (a == null || a.length() > 0) {
-            System.out.println("adsfwefwefwefwefw");
-        } else {
-            System.out.println("1111");
-        }
+        System.out.println("hello");
 
     }
 
